@@ -14,8 +14,8 @@ body {
       to right,
       lightblue 0%,
       lightblue 50%,
-      greenyellow 50%,
-      greenyellow 100%
+      gray 50%,
+      gray 100%
     );
     font-family: sans-serif;
 
@@ -31,6 +31,7 @@ body {
   }
   
   .header {
+    margin-top: 10px;
     background-color: #000;
     color: #fff;
     padding: 20px;
@@ -39,6 +40,8 @@ body {
   
   .content {
     padding: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger
   }
   
   .image {

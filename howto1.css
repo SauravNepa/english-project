@@ -41,6 +41,7 @@ nav {
 .use-wrapper{
   display: flex;
   justify-content: space-between;
+  
 }
 body{
     background: linear-gradient(

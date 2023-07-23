@@ -12,10 +12,10 @@ nav {
 body {
     background: linear-gradient(
       to right,
-      lightblue 0%,
-      lightblue 50%,
-      gray 50%,
-      gray 100%
+      #24325FFF 0%,
+      #24325FFF 50%,
+      #E762D7FF 50%,
+      #E762D7FF 100%
     );
     font-family: sans-serif;
 
@@ -40,7 +40,7 @@ body {
   
   .content {
     padding: 20px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Times New Roman', Times, serif;
     font-size: larger
   }
   

@@ -41,16 +41,17 @@ nav {
 .use-wrapper{
   display: flex;
   justify-content: space-between;
+  font-family: 'Times New Roman', Times, serif;
   
 }
 body{
-    background: linear-gradient(
-      to right,
-      lightblue 0%,
-      lightblue 50%,
-      greenyellow 50%,
-      greenyellow 100%
-    );
+  background: linear-gradient(
+    to right,
+    #24325FFF 0%,
+    #24325FFF 50%,
+    #E762D7FF 50%,
+    #E762D7FF 100%
+  );
     font-family: sans-serif;
 
   }

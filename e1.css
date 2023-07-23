@@ -70,3 +70,23 @@ body {
       position: relative;
       margin-top: 30px;
   }
+  .home-1{
+    text-align: justify;
+    color: white !important;
+    
+    font-size:larger ;
+  }
+.use-3{
+    text-decoration: none;
+    font-size: larger;
+    color: white !important;
+
+}
+.navbar{
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+  color: white !important;
+}
+.home-1{
+  text-decoration: none;

@@ -40,8 +40,9 @@ body {
   
   .content {
     padding: 20px;
-    font-family:'Times New Roman', Times, serif;
-    font-size: larger
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    color: #fff;
   }
   
   .image {

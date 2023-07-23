@@ -19,8 +19,7 @@ nav {
     color:crimson;
   }
   .uses{
-    font-size: x-large;
-    color: gray;
+    font-size: larger;
   }
   .uses-2{
     margin-top: 0%;
@@ -35,15 +34,15 @@ nav {
     text-decoration: none;
   }
 .img-1{
-    height: 500px;
+    height: 600px;
     width: 764px;
 }
 .use-wrapper{
   display: flex;
   justify-content: space-between;
-  font-family: 'Times New Roman', Times, serif;
-  
-}
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #fff;
+  }
 body{
   background: linear-gradient(
     to right,
